@@ -1,2 +1,3 @@
 # SpaceX-Successful-Landing-Analysis
+SpaceX, founded by Elon Musk, is a company focused on space transportation and aerospace manufacturing. One of its most significant achievements is the Falcon 9 rocket, designed for reusability. By landing and reusing the first stage, SpaceX has drastically lowered the cost of space launches. SpaceX advertises Falcon 9 rocket launches on its website for $65 million, while other providers charge upwards of $165 million per launch. Much of these savings come from the ability to reuse the first stage, making space exploration more accessible.
 This repository includes notebooks for SpaceX's Falcon 9 successful landing analysis.
